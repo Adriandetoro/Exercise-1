@@ -1,1 +1,3 @@
-Ceci est le fichier_2 pour l'exercise
+Ceci est le fichier_2 pour l'exercise.
+
+Voici une modification du fichier.
