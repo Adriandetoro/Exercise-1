@@ -1,1 +1,5 @@
-Ceci est le fichier 1 pour l'exercise 1
+Ceci est le fichier 1 pour l'exercise 1.
+
+Avec une 1ere modif en local
+
+Et une deuxième modif en local
